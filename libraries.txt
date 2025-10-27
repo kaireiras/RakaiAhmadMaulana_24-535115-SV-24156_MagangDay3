@@ -1,0 +1,8 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+ESP32Servo
+Servo
+Adafruit MPU6050
+Adafruit Sensor Calibration
+Adafruit Sensor Lab
